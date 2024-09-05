@@ -1,0 +1,595 @@
+[
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "with_statement",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "importPath": "flask_admin",
+        "description": "flask_admin",
+        "isExtraImport": true,
+        "detail": "flask_admin",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Planet",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Favorite",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelView",
+        "importPath": "flask_admin.contrib.sqla",
+        "description": "flask_admin.contrib.sqla",
+        "isExtraImport": true,
+        "detail": "flask_admin.contrib.sqla",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "swagger",
+        "importPath": "flask_swagger",
+        "description": "flask_swagger",
+        "isExtraImport": true,
+        "detail": "flask_swagger",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "APIException",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_sitemap",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_admin",
+        "importPath": "admin",
+        "description": "admin",
+        "isExtraImport": true,
+        "detail": "admin",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('password', sa.String(length=80), nullable=False),\n    sa.Column('is_active', sa.Boolean(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('email')\n    )",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "revision = 'a5cffa318ac2'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('password', sa.String(length=80), nullable=False),",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('password', sa.String(length=80), nullable=False),\n    sa.Column('is_active', sa.Boolean(), nullable=False),",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('password', sa.String(length=80), nullable=False),\n    sa.Column('is_active', sa.Boolean(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.a5cffa318ac2_",
+        "description": "migrations.versions.a5cffa318ac2_",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('password', sa.String(length=80), nullable=False),\n    sa.Column('is_active', sa.Boolean(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('email')",
+        "detail": "migrations.versions.a5cffa318ac2_",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nconfig.set_main_option(",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nconfig.set_main_option(\n    'sqlalchemy.url',\n    str(current_app.extensions['migrate'].db.get_engine().url).replace(\n        '%', '%%'))\ntarget_db = current_app.extensions['migrate'].db",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_db",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "setup_admin",
+        "kind": 2,
+        "importPath": "src.admin",
+        "description": "src.admin",
+        "peekOfCode": "def setup_admin(app):\n    app.secret_key = os.environ.get('FLASK_APP_KEY', 'sample key')\n    app.config['FLASK_ADMIN_SWATCH'] = 'cerulean'\n    admin = Admin(app, name='4Geeks Admin', template_mode='bootstrap3')\n    # Add your models here, for example this is how we add a the User model to the admin\n    admin.add_view(ModelView(User, db.session))\n    # You can duplicate that line to add mew models\n    # admin.add_view(ModelView(YourModelName, db.session))",
+        "detail": "src.admin",
+        "documentation": {}
+    },
+    {
+        "label": "handle_invalid_usage",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def handle_invalid_usage(error):\n    return jsonify(error.to_dict()), error.status_code\n@app.route('/')\ndef sitemap():\n    return generate_sitemap(app)\n@app.route('/people', methods=['GET'])\ndef get_people():\n    people = Person.query.all()\n    return jsonify([person.serialize() for person in people]), 200\n@app.route('/people/<int:people_id>', methods=['GET'])",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "sitemap",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def sitemap():\n    return generate_sitemap(app)\n@app.route('/people', methods=['GET'])\ndef get_people():\n    people = Person.query.all()\n    return jsonify([person.serialize() for person in people]), 200\n@app.route('/people/<int:people_id>', methods=['GET'])\ndef get_person(people_id):\n    person = Person.query.get(people_id)\n    if person is None:",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_people",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_people():\n    people = Person.query.all()\n    return jsonify([person.serialize() for person in people]), 200\n@app.route('/people/<int:people_id>', methods=['GET'])\ndef get_person(people_id):\n    person = Person.query.get(people_id)\n    if person is None:\n        raise APIException('Person not found', status_code=404)\n    return jsonify(person.serialize()), 200\n@app.route('/planets', methods=['GET'])",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_person",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_person(people_id):\n    person = Person.query.get(people_id)\n    if person is None:\n        raise APIException('Person not found', status_code=404)\n    return jsonify(person.serialize()), 200\n@app.route('/planets', methods=['GET'])\ndef get_planets():\n    planets = Planet.query.all()\n    return jsonify([planet.serialize() for planet in planets]), 200\n@app.route('/planets/<int:planet_id>', methods=['GET'])",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_planets",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_planets():\n    planets = Planet.query.all()\n    return jsonify([planet.serialize() for planet in planets]), 200\n@app.route('/planets/<int:planet_id>', methods=['GET'])\ndef get_planet(planet_id):\n    planet = Planet.query.get(planet_id)\n    if planet is None:\n        raise APIException('Planet not found', status_code=404)\n    return jsonify(planet.serialize()), 200\n@app.route('/users', methods=['GET'])",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_planet",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_planet(planet_id):\n    planet = Planet.query.get(planet_id)\n    if planet is None:\n        raise APIException('Planet not found', status_code=404)\n    return jsonify(planet.serialize()), 200\n@app.route('/users', methods=['GET'])\ndef get_users():\n    users = User.query.all()\n    return jsonify([user.serialize() for user in users]), 200\n@app.route('/users/favorites', methods=['GET'])",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_users():\n    users = User.query.all()\n    return jsonify([user.serialize() for user in users]), 200\n@app.route('/users/favorites', methods=['GET'])\ndef get_user_favorites():\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorites = Favorite.query.filter_by(user_id=user_id).all()\n    return jsonify([favorite.serialize() for favorite in favorites]), 200",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_favorites",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def get_user_favorites():\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorites = Favorite.query.filter_by(user_id=user_id).all()\n    return jsonify([favorite.serialize() for favorite in favorites]), 200\n@app.route('/favorite/planet/<int:planet_id>', methods=['POST'])\ndef add_favorite_planet(planet_id):\n    user_id = request.args.get('user_id')\n    if user_id is None:",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "add_favorite_planet",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def add_favorite_planet(planet_id):\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorite = Favorite(user_id=user_id, planet_id=planet_id)\n    db.session.add(favorite)\n    db.session.commit()\n    return jsonify(favorite.serialize()), 201\n@app.route('/favorite/people/<int:people_id>', methods=['POST'])\ndef add_favorite_person(people_id):",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "add_favorite_person",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def add_favorite_person(people_id):\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorite = Favorite(user_id=user_id, person_id=people_id)\n    db.session.add(favorite)\n    db.session.commit()\n    return jsonify(favorite.serialize()), 201\n@app.route('/favorite/planet/<int:planet_id>', methods=['DELETE'])\ndef delete_favorite_planet(planet_id):",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "delete_favorite_planet",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def delete_favorite_planet(planet_id):\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorite = Favorite.query.filter_by(user_id=user_id, planet_id=planet_id).first()\n    if favorite is None:\n        raise APIException('Favorite not found', status_code=404)\n    db.session.delete(favorite)\n    db.session.commit()\n    return jsonify({\"msg\": \"Favorite deleted\"}), 200",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "delete_favorite_person",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def delete_favorite_person(people_id):\n    user_id = request.args.get('user_id')\n    if user_id is None:\n        raise APIException('User ID is required', status_code=400)\n    favorite = Favorite.query.filter_by(user_id=user_id, person_id=people_id).first()\n    if favorite is None:\n        raise APIException('Favorite not found', status_code=404)\n    db.session.delete(favorite)\n    db.session.commit()\n    return jsonify({\"msg\": \"Favorite deleted\"}), 200",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "app = Flask(__name__)\napp.url_map.strict_slashes = False\ndb_url = os.getenv(\"DATABASE_URL\")\nif db_url is not None:\n    app.config['SQLALCHEMY_DATABASE_URI'] = db_url.replace(\"postgres://\", \"postgresql://\")\nelse:\n    app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:////tmp/test.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\nMIGRATE = Migrate(app, db)\ndb.init_app(app)",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.url_map.strict_slashes",
+        "kind": 5,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "app.url_map.strict_slashes = False\ndb_url = os.getenv(\"DATABASE_URL\")\nif db_url is not None:\n    app.config['SQLALCHEMY_DATABASE_URI'] = db_url.replace(\"postgres://\", \"postgresql://\")\nelse:\n    app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:////tmp/test.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\nMIGRATE = Migrate(app, db)\ndb.init_app(app)\nCORS(app)",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "db_url",
+        "kind": 5,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "db_url = os.getenv(\"DATABASE_URL\")\nif db_url is not None:\n    app.config['SQLALCHEMY_DATABASE_URI'] = db_url.replace(\"postgres://\", \"postgresql://\")\nelse:\n    app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:////tmp/test.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\nMIGRATE = Migrate(app, db)\ndb.init_app(app)\nCORS(app)\nsetup_admin(app)",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\nMIGRATE = Migrate(app, db)\ndb.init_app(app)\nCORS(app)\nsetup_admin(app)\n@app.errorhandler(APIException)\ndef handle_invalid_usage(error):\n    return jsonify(error.to_dict()), error.status_code\n@app.route('/')\ndef sitemap():",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "MIGRATE",
+        "kind": 5,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "MIGRATE = Migrate(app, db)\ndb.init_app(app)\nCORS(app)\nsetup_admin(app)\n@app.errorhandler(APIException)\ndef handle_invalid_usage(error):\n    return jsonify(error.to_dict()), error.status_code\n@app.route('/')\ndef sitemap():\n    return generate_sitemap(app)",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class User(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password = db.Column(db.String(80), unique=False, nullable=False)\n    is_active = db.Column(db.Boolean(), unique=False, nullable=False)\n    def __repr__(self):\n        return '<User %r>' % self.email\n    def serialize(self):\n        return {\n            \"id\": self.id,",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Person(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(120), unique=True, nullable=False)\n    birth_year = db.Column(db.String(10), nullable=True)\n    gender = db.Column(db.String(10), nullable=True)\n    def serialize(self):\n        return {\n            \"id\": self.id,\n            \"name\": self.name,\n            \"birth_year\": self.birth_year,",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Planet",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Planet(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(120), unique=True, nullable=False)\n    climate = db.Column(db.String(120), nullable=True)\n    terrain = db.Column(db.String(120), nullable=True)\n    def serialize(self):\n        return {\n            \"id\": self.id,\n            \"name\": self.name,\n            \"climate\": self.climate,",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Favorite",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Favorite(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)\n    user = db.relationship('User', backref=db.backref('favorites', lazy=True))\n    person_id = db.Column(db.Integer, db.ForeignKey('person.id'), nullable=True)\n    planet_id = db.Column(db.Integer, db.ForeignKey('planet.id'), nullable=True)\n    person = db.relationship('Person', backref=db.backref('favorites', lazy=True))\n    planet = db.relationship('Planet', backref=db.backref('favorites', lazy=True))\n    def serialize(self):\n        return {",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "db = SQLAlchemy()\nclass User(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password = db.Column(db.String(80), unique=False, nullable=False)\n    is_active = db.Column(db.Boolean(), unique=False, nullable=False)\n    def __repr__(self):\n        return '<User %r>' % self.email\n    def serialize(self):\n        return {",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "APIException",
+        "kind": 6,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "class APIException(Exception):\n    status_code = 400\n    def __init__(self, message, status_code=None, payload=None):\n        Exception.__init__(self)\n        self.message = message\n        if status_code is not None:\n            self.status_code = status_code\n        self.payload = payload\n    def to_dict(self):\n        rv = dict(self.payload or ())",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "has_no_empty_params",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def has_no_empty_params(rule):\n    defaults = rule.defaults if rule.defaults is not None else ()\n    arguments = rule.arguments if rule.arguments is not None else ()\n    return len(defaults) >= len(arguments)\ndef generate_sitemap(app):\n    links = ['/admin/']\n    for rule in app.url_map.iter_rules():\n        # Filter out rules we can't navigate to in a browser\n        # and rules that require parameters\n        if \"GET\" in rule.methods and has_no_empty_params(rule):",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_sitemap",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def generate_sitemap(app):\n    links = ['/admin/']\n    for rule in app.url_map.iter_rules():\n        # Filter out rules we can't navigate to in a browser\n        # and rules that require parameters\n        if \"GET\" in rule.methods and has_no_empty_params(rule):\n            url = url_for(rule.endpoint, **(rule.defaults or {}))\n            if \"/admin/\" not in url:\n                links.append(url)\n    links_html = \"\".join([\"<li><a href='\" + y + \"'>\" + y + \"</a></li>\" for y in links])",
+        "detail": "src.utils",
+        "documentation": {}
+    }
+]
